@@ -5,7 +5,6 @@
 ### 👨🏻‍💻 Sobre mi
 
 💡 &nbsp;Me gustan los desafíos y solucionar problemas,superarme día a día y siempre en la busqueda de la mejora continua sin miedo al cambio.\
-🌱 &nbsp;Actualmente estoy aprendiendo python.\
 ✍️ &nbsp;En mi tiempo libre me gusta ver deportes, jugar partidas de ajedrez mientras escucho musica de fondo.\
 💬 &nbsp;No dudes en contactarme para cualquier trabajo, duda o consulta que tengas.\
 ✉️ &nbsp;Podes escribirme a mi mail gustavo.alegre04@hotmail.com. Respondo lo mas rapido posible.\
